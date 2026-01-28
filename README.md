@@ -1,4 +1,4 @@
-![Banner](Bannière_LinkedIn_noir_gris_et_blanc_illustration_minimaliste_développement_web.png)
+![Banner](banniere.png)
 # Selena Talijan
 
  **Computer Science Student | C++**
@@ -26,4 +26,4 @@
 
 ---
 
-[LinkedIn](www.linkedin.com/in/selena-talijan) • [Email](mailto:selena.talijan81@gmail.com)
+[LinkedIn]([link](www.linkedin.com/in/selena-talijan)) • [Email]([link](mailto:selena.talijan81@gmail.com))
