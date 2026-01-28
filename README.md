@@ -7,9 +7,9 @@
 ---
 
 ### Tech Stack
-- **Languages:** C++, PHP (Symfony), Python, SQL
-- **Tools:** Git/GitHub, Docker, Linux, Packet Tracer
-- **Focus:** Object-Oriented Programming (OOP) & Cybersecurity
+- **Languages:** C++, PHP (Symfony), Python, SQL, Javascript
+- **Tools:** GitLab/GitHub, Linux, Packet Tracer
+- **Focus:** Object-Oriented Programming (OOP)
 
 ---
 
