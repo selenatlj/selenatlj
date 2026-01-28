@@ -26,4 +26,4 @@
 
 ---
 
-[LinkedIn]([link](www.linkedin.com/in/selena-talijan)) • [Email]([link](mailto:selena.talijan81@gmail.com))
+[LinkedIn]([link](www.linkedin.com/in/selena-talijan))
